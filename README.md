@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This project is a Tic Tac Toe Game (In Vietnam, it also call "Caro game") [Tic Tac Toe](http://anduckhmt146.me/Tic-tac-toe/).
+This project is a Tic Tac Toe Game. In Vietnam, it also call "Caro game". Play [here](http://anduckhmt146.me/Tic-tac-toe/).
 
 ## Available Scripts
 
