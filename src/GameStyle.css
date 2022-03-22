@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.game__content {
+    width: 528px;
+    margin: 50px auto;
+}
+.game__content h1 {
+    text-align: center;
+    color: blue;
+    padding: 10px 0;
+}
+.game__board {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+}
+.game__cell {
+    border: 3px solid #ccc;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.game__cell.is_x {
+    color: red;
+}
+.game__cell.is_o {
+    color : blue;
+}
+.game__cell:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+.game__infor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.game__infor .x_turn {
+    color: red;
+}
+.game__infor .o_turn {
+    color: blue;
+}
+.game__button {
+    display: flex;
+    justify-content: center;
+}
+.game__button button {
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: blue;
+    border: 2px solid blue;
+    color: white
+}
+.game__button button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+    transform: scale(1.1);
+}
