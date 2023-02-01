@@ -1,6 +1,8 @@
 # Tic Tac Toe Game
 
-This project is developed from the project ofthe subject Advanced Programming Extra in Honors Program at HCMUT. Here is a C++ version of this project [Caro Game C++](https://github.com/anduckhmt146/CaroGame)
+This project is developed from the project ofthe subject Advanced Programming Extra in Honors Program at HCMUT. 
+
+Here is a C++ version of this project [Caro Game (C++)](https://github.com/anduckhmt146/CaroGame)
 
 # Tech Stack
 
