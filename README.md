@@ -1,6 +1,11 @@
 # Tic Tac Toe Game
 
-This project is a Tic Tac Toe Game. In Vietnam, it also call "Caro game".
+This project is developed from the project ofthe subject Advanced Programming Extra in Honors Program at HCMUT. Here is a C++ version of this project [Caro Game C++](https://github.com/anduckhmt146/CaroGame)
 
-# Link demo
-Link: https://tic-tac-toe-9hsh.onrender.com/
+# Tech Stack
+
+Frontend: ReactJS
+
+# Demo
+
+The webiste has been deployed at https://tic-tac-toe-9hsh.onrender.com/
